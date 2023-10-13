@@ -1,11 +1,11 @@
 # RestAPI
 Instructions
-Start a new Node JS project  with ‘ npm init ‘
-Install the mongoose and express and  .env
-Configure the environment variables with .env
-Lunch a server with express in the server.js file
-Connect your database locally or with mongo atlas
-The Folder structure should be like this :
+1.Start a new Node JS project  with ‘ npm init ‘
+2.Install the mongoose and express and  .env
+3.Configure the environment variables with .env
+4.Lunch a server with express in the server.js file
+5.Connect your database locally or with mongo atlas
+6.The Folder structure should be like this :
 config/ .env 
 
 Server.js
